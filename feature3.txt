@@ -7,4 +7,5 @@ git status
 git checkout -b 
 git checkout 
 git restore
-
+git log 
+git log --oneline
