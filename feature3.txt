@@ -9,3 +9,6 @@ git checkout
 git restore
 git log 
 git log --oneline
+git revert
+
+
