@@ -1,2 +1,3 @@
 this is a feature1
-this is new changes 
+this is new changes
+adding new commits  
