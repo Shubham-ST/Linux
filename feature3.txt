@@ -11,3 +11,7 @@ git log
 git log --oneline
 git revert
 git reset
+git stash
+git stash pop
+git restore --staged
+
