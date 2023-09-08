@@ -9,3 +9,5 @@ git checkout
 git restore
 git log 
 git log --oneline
+
+ithe gadbad zali
