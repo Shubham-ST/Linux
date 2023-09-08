@@ -1,0 +1,17 @@
+this is for new commands
+
+git init
+git add
+git commit -m 
+git status
+git checkout -b 
+git checkout 
+git restore
+git log 
+git log --oneline
+git revert
+git reset
+git stash
+git stash pop
+git restore --staged
+
