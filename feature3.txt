@@ -1,0 +1,10 @@
+this is for new commands
+
+git init
+git add
+git commit -m 
+git status
+git checkout -b 
+git checkout 
+git restore
+
